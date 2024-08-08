@@ -21,12 +21,12 @@ body {
 }
 
 .sidebar.collapsed {
-    width: 50px;
+    width: 0;
     padding: 0;
 }
 
 .toggle-button {
-    width: 100%;
+    width: 150px;
     padding: 10px;
     background-color: #8b4513; /* Коричневый фон кнопки */
     color: white;
